@@ -1,3 +1,3 @@
 # finalproject
 this is my final fashon store project.
-#azure link https://jolly-mud-02abb3610.1.azurestaticapps.net/
+#azure link https://r-sudheer-kumar.github.io/Fashon-Store-Website/
